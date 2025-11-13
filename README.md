@@ -8,6 +8,7 @@
 - 💬 **Ask me about:** Collaboration, Tech Support, Web Development, and Cloud Solutions
 - 👯 **I’m looking to collaborate on:** AI/ML projects, Full-Stack Web Apps, and Cloud Deployments
 - 🤝 **Interested in collaborating with me?** Just drop a mail at **swayamsankar898@gmail.com** – Let’s build something awesome together!
+- 🌐 **Check out my portfolio:** [https://your-portfolio-link-here.com](https://swayamportfoliosite.netlify.app/)  
 - ⚡ **Fun fact:** I believe in always trusting your progress and never losing hope. Keep trying, and always believe in practical things.
 
 ## 🌐 Socials:
