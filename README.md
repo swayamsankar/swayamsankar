@@ -3,11 +3,15 @@
 
 # 💫 About me 
 
-- 🔭 **I’m currently working on:** **TECHSWAY** – An e-commerce platform for digital electronics and tech solutions.
-- 🌱 **I’m currently learning:** **Artificial Intelligence & Data Science (AI & DS)**
-- 💬 **Ask me about:** Collaboration, Tech Support, Web Development, and Cloud Solutions
-- 👯 **I’m looking to collaborate on:** AI/ML projects, Full-Stack Web Apps, and Cloud Deployments
-- 🤝 **Interested in collaborating with me?** Just drop a mail at **swayamsankar898@gmail.com** – Let’s build something awesome together!
+* 🔭 I am proficient and actively working on multiple real-world projects using the MERN stack, Java full-stack, and Python full-stack development.
+
+* 🌱 I am currently learning AI integration, automation with n8n, and advanced development techniques to build smarter applications.
+
+* 💬 Ask me about collaboration, tech support, web development, and cloud solutions.
+
+* 👯 I am very excited to collaborate with passionate people, work on real-world projects, and build impactful solutions.
+
+* 🤝 Interested in collaborating with me? Just drop a mail at [swayamsankar898@gmail.com](mailto:swayamsankar898@gmail.com) and let’s build something awesome together.
 - 🌐 **Check out my portfolio:** [https://your-portfolio-link-here.com](https://swayamportfoliosite.netlify.app/)  
 - ⚡ **Fun fact:** I believe in always trusting your progress and never losing hope. Keep trying, and always believe in practical things.
 
