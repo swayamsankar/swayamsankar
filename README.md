@@ -161,39 +161,7 @@ fun_fact:   "Always trust your progress. Keep trying."
 
 </div>
 
-<details>
-<summary>⚙️ <b>Click here — Setup Snake Animation (1 minute)</b></summary>
-<br/>
 
-Create this file in your profile repo: **`.github/workflows/snake.yml`**
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: swayamsankar
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions tab → Run workflow manually** once. Done! 🎉
-
-</details>
 
 ---
 
