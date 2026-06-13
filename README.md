@@ -138,7 +138,6 @@ fun_fact:   "Always trust your progress. Keep trying."
 
 </div>
 
-> 💡 *Pin your best repos using GitHub's "Pin a repository" feature on your profile page — they'll show up automatically!*
 
 ---
 
